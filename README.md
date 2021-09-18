@@ -31,6 +31,10 @@ poster: Link to movie poster
 
 [![Kaggle Data](https://img.shields.io/badge/kaggle%20-data-blue)](https://www.kaggle.com/divyanshsareen/times-of-india-movie-reviewshindi-and-english)
 
+### Script to upload this data to MongoDB
+
+I wrote a python script to upload this on MongoDB and it feels right to place it here. Check the `/data_upload` directory!
+
 ### Run it on colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ahIzbepemffJXiT9LSVyH0ADfPCwZt1W?usp=sharing)
