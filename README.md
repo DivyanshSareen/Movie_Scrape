@@ -5,27 +5,27 @@ This dataset contains movie information scraped from a TOI Movie Review website 
 Columns:
 The dataset has both Hindi and English movie data with the following columns:
 
-name: Title of the Movie
+* name: Title of the Movie
 
-date: the release date of the Movie
+* date: the release date of the Movie
 
-lang: list of languages in which the movie is available
+* lang: list of languages in which the movie is available
 
-dur: duration of the movie
+* dur: duration of the movie
 
-genre: Genre😬
+* genre: Genre😬
 
-direc: Director of the Movie
+* direc: Director of the Movie
 
-act: List of actors
+* act: List of actors
 
-c_rate: Critic's rating
+* c_rate: Critic's rating
 
-u_rate: User's rating
+* u_rate: User's rating
 
-desc: Synopsis
+* desc: Synopsis
 
-poster: Link to movie poster
+* poster: Link to movie poster
 
 ### Link to the dataset:
 
